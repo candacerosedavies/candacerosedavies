@@ -1,8 +1,8 @@
 # ✨ Hi I'm Candace! <br>
-👩🏻‍💻 Web developer sharing my coding journey and learnings<br><br>
-🎥 Transitioning to tech after 12+ years [making documentaries](https://www.candacedavies.com/showreel) for BBC, Channel 4, ITV<br><br>
-🎨 Passionate about accessibility, good UX, UI with a background in Fine Art<br><br>
+👩🏻‍💻 Web developer transitioning to tech after 12+ years [making documentaries 🎥 ](https://www.candacedavies.com/showreel) <br><br>
 ⚡ Bridging the gap between storytelling and code<br><br>
+🎨 Passionate about accessibility, good UX and UI, with a background in Fine Art<br><br>
+
 
 [![Candace's GitHub stats](https://github-readme-stats.vercel.app/api?username=candacerosedavies&theme=panda&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 
